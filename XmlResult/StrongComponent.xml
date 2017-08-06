@@ -1,0 +1,19 @@
+
+  <StrongComponents>
+    <Component>
+      <name>
+        S:\OOD\OOD\ForProject2\CodeAnalyzer\FilesToTest\\FileD.h
+      </name>
+    </Component>
+    <Component>
+      <name>
+        S:\OOD\OOD\ForProject2\CodeAnalyzer\FilesToTest\\FileC.h
+      </name>
+      <name>
+        S:\OOD\OOD\ForProject2\CodeAnalyzer\FilesToTest\\FileB.h
+      </name>
+      <name>
+        S:\OOD\OOD\ForProject2\CodeAnalyzer\FilesToTest\\FileA.h
+      </name>
+    </Component>
+  </StrongComponents>
