@@ -9,4 +9,4 @@ To run the project:
 --> run compile.bat
 --> run run.bat
 
-output has been provided in Output.txt
+output has been provided in Output.pdf
